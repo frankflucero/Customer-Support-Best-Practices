@@ -10,3 +10,12 @@ Opening a repo for sharing customer support and success best practices
 
 -	TO SCALE ONE Must invest in Low Touch, work with Partners [Partner CSMs who are trained/certified] and Analytics.  Studies show NPS does not suffer due to Low Touch.
 -	LAER = Land, Adopt, Expand, Renew.  PUT THE RIGHT RESOURCES AT THE POINT IN THE CTM JOURNEY THAT DELIVERS THE BEST CX IN THE MOST COST EFFECTIVE MANNER.
+
+EFFECTIVE LEADERSHIP PRACTICES
+ 
+-	Lead by inspiration not by dictation
+-	Ask questions
+-	Listen more than talking
+-	Be VOC and carry through organization
+-	Learn about employees and ctms – their desires and input
+-	Kind and inclusive environment
